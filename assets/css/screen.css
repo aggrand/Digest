@@ -9,6 +9,7 @@
 
 body {
     font-feature-settings: "lnum";
+    background-color: #e8e0d0 !important;
 }
 
 .post-template .gh-main,
